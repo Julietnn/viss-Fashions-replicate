@@ -1,3 +1,4 @@
+url:https://julietnn.github.io/viss-Fashions-replicate/
 # viss-Fashions-replicate
 This is replicated version of Viss  fashion landing page 
 for this project, it was written in html and css which are also frontend languages.
